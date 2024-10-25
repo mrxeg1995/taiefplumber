@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://taiefplumber.netlify.app/sitemap.xml
